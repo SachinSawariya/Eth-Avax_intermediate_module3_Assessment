@@ -48,4 +48,4 @@ Note: Make sure your local Hardhat network is running (`npx hardhat node`) and t
 Please refer to the provided code and adjust it to meet your specific contract requirements. Add relevant information and code in a structured manner within the `Token` contract.
 
 ## Video Walkthrough
-
+https://www.loom.com/share/4fc1654e01bd42b89dea60cfe19ca64e
