@@ -49,4 +49,3 @@ Please refer to the provided code and adjust it to meet your specific contract r
 
 ## Video Walkthrough
 
-https://www.loom.com/share/56faefb9a47a4accae98ae6cc77b5385
